@@ -1,0 +1,44 @@
+body{
+	background-color: #BA8573;
+	font-family: 'Lobster';
+}
+
+header {
+	background-color: orange;
+	border:5px solid;
+	text-align:center;
+
+}
+
+.input {
+
+	text-align: center;
+	padding: 20px;
+	border-bottom: 2px solid #95a5a6;
+	background-color: #E3896B;
+}
+
+#newtext{
+	width: 400px;
+	height: 30px;
+	
+}
+
+.add{
+	margin-left:10px;
+	height: 35px;
+	width: 35px;
+	background-color: green;
+	font-size:20px;
+}
+
+.list
+{
+
+	display: block;
+}
+
+.list h2{
+	text-align: center;
+
+}
