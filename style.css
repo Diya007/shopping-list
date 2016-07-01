@@ -50,6 +50,10 @@ li{
 	font-size: 25px
 }
 
+
+
+
+
 .done{
 	
    height: 30px;
@@ -64,10 +68,22 @@ li{
 
 }
 
+.search{
+	text-align: center;
+	margin-top: 20px;
+    padding-left: 50px;
+}
+
+.holder{
+	height: 20px;
+}
 
 
 
-
+#find{
+	height: 25px;
+	background-color: yellow;
+}
 
 
 

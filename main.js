@@ -23,10 +23,21 @@ else{
 
 
 
+
+
+
+
+
+
+
 $(function(){
 
 $('#add').on('click',addListItem);
 $(document).on('click','.delete',deleteItem);
-$(document).on('click','.done',finishItem)
+$(document).on('click','.done',finishItem);
+$('#find').on('click',searchItem);
 
 });
+
+
+
