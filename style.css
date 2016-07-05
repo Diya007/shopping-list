@@ -85,7 +85,9 @@ li{
 	background-color: yellow;
 }
 
-
+.finishItem{
+	text-decoration:line-through;
+}
 
 
 
